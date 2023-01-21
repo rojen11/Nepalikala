@@ -1,17 +1,7 @@
-# project
+Nepali kala - Flutter App
 
-A new Flutter project.
+Ecommerce app for handicraft
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/44132059/213849453-f387ab5b-0c5c-4baf-8558-adcda563d8be.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
+![image](https://user-images.githubusercontent.com/44132059/213849475-8309a1ad-90c6-405b-a5ff-a7f24730b5e9.png)
