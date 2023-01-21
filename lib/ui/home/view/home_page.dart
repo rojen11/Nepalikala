@@ -112,13 +112,15 @@ class HomePage extends StatelessWidget {
         child: Column(
           children: [
             SizedBox(
-              height: 100,
+              height: 120,
               child: Padding(
                 padding: const EdgeInsets.all(20.0),
                 child: Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
-                      Text("Nepali Kala"),
+                      Text("Nepali Kala",
+                          style: TextStyle(
+                              fontSize: 25, fontWeight: FontWeight.bold)),
                       IconButton(
                         icon: Icon(Icons.shopping_cart),
                         onPressed: () => {},
